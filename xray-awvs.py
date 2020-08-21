@@ -16,6 +16,8 @@ use = '''
        pyhton3 xray-awvs13.py -f url.txt 127.0.0.1:8080
     Options:
         -f  filename     add the target to the awvs from file
+        
+       ./xray webscan --listen 0.0.0.0:8888 --html-output test.html
     '''
 
 class Awvs:
