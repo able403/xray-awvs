@@ -13,4 +13,4 @@ Install awvs by yourself and generate apikey and fill in host_api.txt,
  ./xray webscan --listen 0.0.0.0:8888 --html-output test.html
  pyhton3 xray-awvs13.py -f url.txt 127.0.0.1:8888
 ```
-juse enjoy
+just enjoy!
